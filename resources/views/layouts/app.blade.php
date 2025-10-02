@@ -1,0 +1,1 @@
+<!doctype html><html><head><meta charset='utf-8'/><meta name='viewport' content='width=device-width,initial-scale=1'/><title>Masjid QR Absensi</title><link rel='stylesheet' href='/css/app.css'></head><body><div class='sidebar'>Sidebar</div><div class='main'>@yield('content')</div></body></html>

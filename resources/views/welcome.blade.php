@@ -1,0 +1,1 @@
+<!doctype html><html><head><meta charset='utf-8'/><meta name='viewport' content='width=device-width,initial-scale=1'/><title>Masjid QR Absensi</title><link rel='stylesheet' href='/css/app.css'></head><body><div style='padding:40px'><h1>Masjid QR Absensi — Starter</h1><p>Open /students, /scan, /reports</p></div></body></html>
